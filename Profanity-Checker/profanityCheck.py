@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env/python
 """evelandy/W.G.
 Aug. 06 2018 10:38pm
 Profanity Checker

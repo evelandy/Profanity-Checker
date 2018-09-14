@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 """evelandy/W.G.
 Aug. 06 2018 10:38pm
 Profanity Checker
@@ -6,7 +6,6 @@ Python36-32
 to use, just type the extention and filename.ext
 of the file you want to check when prompted. 
 """
-
 import urllib.request
 from urllib.parse import urlencode
 
